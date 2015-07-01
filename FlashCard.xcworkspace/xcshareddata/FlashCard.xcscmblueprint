@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42E5EBE5C58BF5DCCE33BF46898122EE085B01FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "42E5EBE5C58BF5DCCE33BF46898122EE085B01FD" : 0,
+    "FD443DD6DED953B9BC38ECE8CE403697AF9A7129" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "568C7BB8-ABDC-4FE2-A60C-870D76F83C5C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "42E5EBE5C58BF5DCCE33BF46898122EE085B01FD" : "flashcard_bit",
+    "FD443DD6DED953B9BC38ECE8CE403697AF9A7129" : "FlashCard"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlashCard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlashCard.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/fmartin0212\/flashcard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42E5EBE5C58BF5DCCE33BF46898122EE085B01FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fmartin0212\/FlashCards.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD443DD6DED953B9BC38ECE8CE403697AF9A7129"
+    }
+  ]
+}

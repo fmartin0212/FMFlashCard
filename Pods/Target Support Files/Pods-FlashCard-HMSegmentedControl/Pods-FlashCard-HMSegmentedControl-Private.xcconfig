@@ -1,0 +1,5 @@
+#include "Pods-FlashCard-HMSegmentedControl.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/HMSegmentedControl" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/FontAwesomeKit" "${PODS_ROOT}/Headers/Public/HMSegmentedControl" "${PODS_ROOT}/Headers/Public/Quizlet-iOS" "${PODS_ROOT}/Headers/Public/SVProgressHUD" "${PODS_ROOT}/Headers/Public/SVSegmentedControl"
+OTHER_LDFLAGS = ${PODS_FLASHCARD_HMSEGMENTEDCONTROL_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}

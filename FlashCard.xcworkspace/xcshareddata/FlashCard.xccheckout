@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>568C7BB8-ABDC-4FE2-A60C-870D76F83C5C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlashCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42E5EBE5C58BF5DCCE33BF46898122EE085B01FD</key>
+		<string>https://bitbucket.org/fmartin0212/flashcard.git</string>
+		<key>FD443DD6DED953B9BC38ECE8CE403697AF9A7129</key>
+		<string>https://github.com/fmartin0212/FlashCards.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlashCard.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42E5EBE5C58BF5DCCE33BF46898122EE085B01FD</key>
+		<string>..</string>
+		<key>FD443DD6DED953B9BC38ECE8CE403697AF9A7129</key>
+		<string>../../FlashCard</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/fmartin0212/flashcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42E5EBE5C58BF5DCCE33BF46898122EE085B01FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD443DD6DED953B9BC38ECE8CE403697AF9A7129</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlashCard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42E5EBE5C58BF5DCCE33BF46898122EE085B01FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>flashcard_bit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
